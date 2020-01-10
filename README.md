@@ -1,6 +1,6 @@
 # Acoustic Surveillance Intrusion Detecion system
 # ASIDS Prototype 2020 for wildlife protection
-Project ASIDS Development 
+Project ASIDS Development is a wide area intrusion detection surveillance system using audio to detect anomalous events that are activities of trespassers, poachers and illegal loggers. The system applies artifical intelligence to detect such illegal activities to be recognized as an intruder to assist wildlife protection efforts.    
 
 # Introduction
 ASIDS Introduction Video can be found in this link:
