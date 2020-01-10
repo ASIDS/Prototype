@@ -5,9 +5,9 @@ Project ASIDS Development
 ASIDS Introduction Video can be found in this link:
 https://youtu.be/cWPJTvhmXPM
 
-Project Milestone 1  
+<br>Project Milestone 1  
 https://youtu.be/TN7kLvERBEc
-Project Milestone 2  
+<br>Project Milestone 2  
 https://youtu.be/TN7kLvERBEc
 
 # Hardware
