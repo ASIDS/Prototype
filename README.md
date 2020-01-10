@@ -1,15 +1,15 @@
 # Prototype
 Project ASIDS Development 
 
-Introduction
+##Introduction
 
 
-Hardware
+#Hardware
 
 1.Raspberry Pi Zero Node + LoRA Pi-HatMulti Freq 
 2.Raspberry Pi 3B+ + Lora Gateway RAK 915
 
-Software 
+#Software 
 Python 
 Raspbian OS
 
