@@ -1,4 +1,5 @@
-# ASIDS Prototype 2020
+# Acoustic Surveillance Intrusion Detecion system
+# ASIDS Prototype 2020 for wildlife protection
 Project ASIDS Development 
 
 # Introduction
