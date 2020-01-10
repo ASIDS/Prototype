@@ -1,8 +1,14 @@
 # Prototype
 Project ASIDS Development 
 
-## Introduction
+# Introduction
+ASIDS Introduction Video can be found in this link:
+https://youtu.be/cWPJTvhmXPM
 
+Project Milestone 1  
+https://youtu.be/TN7kLvERBEc
+Project Milestone 2  
+https://youtu.be/TN7kLvERBEc
 
 # Hardware
 
