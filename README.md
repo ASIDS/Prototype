@@ -1,4 +1,4 @@
-# Prototype
+# ASIDS Prototype 2020
 Project ASIDS Development 
 
 # Introduction
@@ -28,17 +28,19 @@ Raspbian Buster (2020) OS and Python 3.
 # Project Flow
 ## 1.Model Development
 <br>
-1. Audio Recordings
+1. Acquire Audio Recordings
 <br>
-2. Feature Extraction
+2. Feature Extraction MLE / LMFE
 <br>
-3. Feature Analysis
+3. Feature Analysis 
 <br>
 4. Model Design
 <br>
 5. Model Training
 <br>
 6. Model Evaluation
+<br>
+7. Save and Embbed Model
 
 
 ## 2. Communication Setup
@@ -49,7 +51,18 @@ Raspbian Buster (2020) OS and Python 3.
 
 <br>
 ## 3. Main Progam for A.S.I.Ds
-
-
-
+<br>
+1.Record Audio 
+<br>
+2.Preprocess Slice Audio, Convert to Single Channel 
+<br>
+3.Extract Features of each slice
+<br>
+4.Load Model -> Produce Inference
+<br>
+5.Compile Inference -> Create a Final Decision Filter
+<br>
+6.Sound Alarm -> LoRa Message -> Gateway
+<br>
+7.Sleep Until Next Routine, Redo 1-7 each time device wake up
 
