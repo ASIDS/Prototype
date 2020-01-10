@@ -15,7 +15,7 @@ https://youtu.be/TN7kLvERBEc
 
 <br>1.Raspberry Pi Zero Node + LoRA Pi-HatMulti Freq 
 <br>2.Raspberry Pi 3B+ + Lora Gateway RAK 915
-<br>Supplied By Cytron Technologies Sdn Bhd, Pulau Pinang, Malaysia
+<br>Purchased from Cytron Technologies Sdn Bhd, Pulau Pinang, Malaysia
 
 <br>USB Audio Device/Interface
 <br>1.ATR2500 USB Microphone 
