@@ -3,7 +3,7 @@ Project ASIDS Development
 
 # Introduction
 ASIDS Introduction Video can be found in this link:
-https://youtu.be/cWPJTvhmXPM
+<br>https://youtu.be/cWPJTvhmXPM
 
 <br>Project Milestone 1  
 https://youtu.be/TN7kLvERBEc
@@ -24,6 +24,32 @@ https://youtu.be/TN7kLvERBEc
 # Software 
 
 Raspbian Buster (2020) OS and Python 3.
+
+# Project Flow
+## 1.Model Development
+<br>
+1. Audio Recordings
+<br>
+2. Feature Extraction
+<br>
+3. Feature Analysis
+<br>
+4. Model Design
+<br>
+5. Model Training
+<br>
+6. Model Evaluation
+
+
+## 2. Communication Setup
+<br>
+1. Raspberry Pi Master(Gateway) Setup
+<br>
+2. Raspberry Pi Slave(Node) Setup
+
+<br>
+## 3. Main Progam for A.S.I.Ds
+
 
 
 
