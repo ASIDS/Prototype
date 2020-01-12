@@ -66,5 +66,5 @@ Raspbian Buster (2020) OS and Python 3.
 <br>
 6.Sound Alarm -> LoRa Message -> Gateway
 <br>
-7.Sleep Until Next Routine, Redo 1-7 each time device wake up
+7.Sleep Until Next Routine, Redo Steps 1-7 each time device wake up
 
