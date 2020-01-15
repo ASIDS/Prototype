@@ -1,5 +1,25 @@
 ## MAIN PROGRAM RUNNING IN PYTHON 3 
 
+The program consist of simple instructions of in a loop 
+<br>1.Record Audio
+<br>Using USB Sound Card (Raspberry pi doesnt have it built-in)
+
+
+<br>2.Preprocess Slice Audio, Convert to Single Channel
+
+
+<br>3.Extract Features of each slice
+
+<br>4.Load Model -> Produce Inference
+<br>Load model 2 files json and h5 can be replaced with new version of model trained later just only if the INPUT SIZE 98,40 AND OUTPUT CLASS = 4, ARE EXACTLY THE SAME 
+<br>
+<br>5.Compile Inference -> Create a Final Decision Filter
+<br Inferences are also restricted to the Classes = 4 (MUST MODIFY FOR DIFFERENT MODEL/CLASS NUMBERS)
+
+<br>6.Sound Alarm -> LoRa Message -> Gateway
+<br>7.Sleep Until Next Routine, Redo Steps 1-7 each time device wake up
+
+
 ## Things to prepare
 <br>
 These files will run on Pi Zero / Pi 3B+ / etc through Command Line
