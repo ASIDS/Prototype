@@ -1,6 +1,9 @@
 ## MAIN PROGRAM RUNNING IN PYTHON 3 
 
-The program consist of simple instructions of in a loop 
+
+
+
+The Main program consist of simple instructions of in a loop 
 <br>1.Record Audio
 <br>Using USB Sound Card (Raspberry pi doesnt have it built-in)
 
@@ -27,14 +30,20 @@ These files will run on Pi Zero / Pi 3B+ / etc through Command Line
 python 3 /This/CodePath/runThisCode.py
 <br>
 on Boot an excecution file will tell pi to run this code (.sh)
+Create a Cron Job Using
+
+launcher.sh
+logs
+Ref : https://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/
 <br>
 recording audio through USB Sound Card requires some settings tweaking on the default sound card
-
-Must make sure the requirements are already installed as listed below
+CHUNK Size 1024 default but 8192 (if have overflow input error)
+Ref : https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi/updating-alsa-config
 
 
 ## Requirements
-Make Sure everything is installed and ready
+Must make sure the requirements are already installed as listed below
+
 <br>
 from keras.models import Sequential<br>
 from keras.layers import Dense<br>
