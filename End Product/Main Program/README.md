@@ -1,5 +1,6 @@
 ## MAIN PROGRAM RUNNING IN PYTHON 3 
-
+RESULTS 
+<br>Pi 3B+ : 30 Seconds Sliced into 36 Predictions Time 13 Seconds
 
 
 
@@ -30,19 +31,21 @@ These files will run on Pi Zero / Pi 3B+ / etc through Command Line
 python 3 /This/CodePath/runThisCode.py
 <br>
 on Boot an excecution file will tell pi to run this code (.sh)
-Create a Cron Job Using
-
+<br>Create a Cron Job Using
+<br>
 launcher.sh
+<br>
 logs
+<br>
 Ref : https://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/
 <br>
-recording audio through USB Sound Card requires some settings tweaking on the default sound card
+<br>recording audio through USB Sound Card requires some settings tweaking on the default sound card
 CHUNK Size 1024 default but 8192 (if have overflow input error)
-Ref : https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi/updating-alsa-config
+<br>Ref : https://learn.adafruit.com/usb-audio-cards-with-a-raspberry-pi/updating-alsa-config
 
 
 ## Requirements
-Must make sure the requirements are already installed as listed below
+<br>Must make sure the requirements are already installed as listed below
 
 <br>
 from keras.models import Sequential<br>
