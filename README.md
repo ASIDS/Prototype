@@ -50,6 +50,13 @@ Raspbian Buster (2020) OS and Python 3.
 <br>
 2. Raspberry Pi Slave(Node) Setup
 
+Node Setup A
+1-GPIO Signal Alarm method uses a LoRa Node Heltec MCU, Raspberry pi sendout digital signal 3.3v from GPIO to a Solid State Relay 3.3v. in time of alarm he node will continously send out message that has been pre-programeed to the Microcontroller.
+
+
+Node Setup B
+Lora Pi-Hat and Communicates with the Raspberry Pi over UART only using a total of 3 GPIO Pins
+uses less than 50mA
 <br>
 
 ## 3. Main Progam for A.S.I.Ds
