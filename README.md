@@ -21,7 +21,7 @@ https://youtu.be/TN7kLvERBEc
 <br>1.ATR2500 USB Microphone 
 <br>2.BM-800 Condensor Mic + USB Audio Card
 <br>3.Not Branded Mic + USB Audio Card
-
+![Image description](https://drive.google.com/file/d/133Whu653izW38eoM34xQbnrXHbWXGidH/view)
 # Software 
 
 Raspbian Buster (2020) OS and Python 3.
