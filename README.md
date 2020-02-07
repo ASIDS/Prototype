@@ -21,7 +21,7 @@ https://youtu.be/TN7kLvERBEc
 <br>1.ATR2500 USB Microphone 
 <br>2.BM-800 Condensor Mic + USB Audio Card
 <br>3.Not Branded Mic + USB Audio Card
-![Image description](https://github.com/ASIDS/Prototype/blob/master/Printer-Recovered.jpg)
+![ASIDS Node](https://github.com/ASIDS/Prototype/blob/master/ASIDS%20Node.jpg)
 # Software 
 
 Raspbian Buster (2020) OS and Python 3.
